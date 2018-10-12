@@ -1,1 +1,5 @@
 Clone Repository: git clone https://github.com/ehennis/ReinforcementLearning.git
+
+Install Anaconda: https://www.anaconda.com/downloads
+
+Install Jupyter: http://jupyter.org/install

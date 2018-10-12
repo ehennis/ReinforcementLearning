@@ -4,7 +4,21 @@
 **Repository Instructions**: To use this repository you will need to find the section you want to learn and open the notebook associated with it.
 
 ## Section 1: Reinforcement Learning Basics
-**Topics Covered** Decision Making, Markov Decision Process, Policy Iteration, Value Iteration, Deterministic Movements, and Stochastic Movements. ??Maybe reference discrete and continuous environments here??  
-**Notebook**: 01-RLBasics.ipynb
+**Topics Covered:** Decision Making, Markov Decision Process, Policy Iteration, Value Iteration, Deterministic Movements, and Stochastic Movements. ??Maybe reference discrete and continuous environments here??  
+**Notebook:**: [01-RLBasics.ipynb](01-RLBasics.ipynb)
 
 ## Section 2: Q-Learning
+**Topics Covered:** Q-Learning, Discrete Environments, and Continuous Environments  
+**Notebook:** [02-QLearning.ipynb](02-QLearning.ipynb)
+
+## Section 3: Double Q-Learning
+**Notebook:** [03-DoubleQLearning.ipynb](03-DoubleQLearning.ipynb)
+
+## Section 4: Neural Networks
+**Notebook:** [04-NeuralNetworks.ipynb](04-NeuralNetworks.ipynb)
+
+## Section 5: DQN
+**Notebook:** [05-DQN.ipynb](05-DQN.ipynb)
+
+## Section 6: Double DQN
+**Notebook:** [06-DDQN.ipynb](06-DDQN.ipynb)

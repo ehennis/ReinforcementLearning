@@ -1,0 +1,8 @@
+Double Q-Learning
+Hasselt, H. V. (2010). Double Q-learning. Advances in Neural Information Processing Systems 23,2613-2621. Retrieved from http://papers.nips.cc/paper/3964-double-q-learning.pdf
+
+DQN
+Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A. A., Veness, J., Bellemare, M. G., ... & Petersen, S. (2015). Human-level control through deep reinforcement learning. Nature, 518(7540), 529
+
+Double DQN
+Van Hasselt, H., Guez, A., & Silver, D. (2016, February). Deep Reinforcement Learning with Double Q-Learning. In AAAI (Vol. 2, p. 5)
