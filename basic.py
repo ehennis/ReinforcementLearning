@@ -48,4 +48,20 @@ def MDPQuestion7(iVal):
         print('Correct')
         print('  You pick up the reward in that state when you enter it')
     else:
-        print('Incorrect. What is the reward value of cell (0,2)?')          
+        print('Incorrect. What is the reward value of cell (0,2)?')
+
+def VIQuestion1(iVal):
+    if iVal == 8.1:
+        print('Correct')
+        print('  You need to grab the current reward (0) and add that to the product of the discount factor (0.9) times the future reward (9)')
+    else:
+        print('Incorrect: You need the current reward (0) and then add that to the discount factor (0.9) times the future reward (9)')
+
+def VIQuestion2(iVal):
+    if iVal == 9.9:
+        print('Correct')
+        print('  You need to grab the current reward (9) and add that to the product of the discount factor (0.9) times the future reward (10)')
+    else:
+        print('Incorrect: You need the current reward (9) and then add that to the discount factor (0.9) times the future reward (10)')
+
+        
