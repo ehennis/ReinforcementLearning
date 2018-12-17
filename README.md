@@ -22,3 +22,15 @@
 
 ## Section 6: Double DQN
 **Notebook:** [06-DDQN.ipynb](06-DDQN.ipynb)
+  
+  
+# Current Environment Setup
+Windows 10  
+Python 3.6.1  
+Anaconda3 4.4.0  
+TensorFlow 1.2.0  
+Keras 2.0.5  
+Gym (OpenAI) 0.9.1  
+NumPy 1.12.1  
+MatPlotLib 2.0.2  
+Jupyter Notebooks  
